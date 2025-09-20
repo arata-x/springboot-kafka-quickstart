@@ -48,7 +48,7 @@ This method runs the Kafka broker in Docker and the Spring Boot application loca
 
     ```bash
     cd test
-    ./send-task.sh
+    ./send-order.sh
     ```
 
 4.  **Observe the Output**
